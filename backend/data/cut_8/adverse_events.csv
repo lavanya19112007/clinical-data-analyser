@@ -1,0 +1,4 @@
+record_id,subject_id,site,visit,event_term,severity,is_serious,action_taken,date
+AE_S07_002_01,042-S07-002,S07,WEEK4,Severe Hepatotoxicity,Grade 3,Y,Study Discontinued,2026-02-14
+AE_S07_003_01,042-S07-003,S07,WEEK4,Maculopapular Rash,Grade 3,N,Study Discontinued,2026-02-15
+AE_S01_001_01,042-S01-001,S01,BASELINE,Mild Tension Headache,Grade 1,N,None,2026-01-12

@@ -1,0 +1,915 @@
+record_id,usubjid,site,visit,aeterm,event_term,severity,aeser,action_taken,start_date,aestdat,cut_available
+AE_042-S05-003_WEEK4,042-S05-003,S05,WEEK4,Alanine aminotransferase increased,Alanine aminotransferase increased,Grade 3,Y,Study drug withheld,2026-02-26,2026-02-26,3
+AE_042-S07-002_01,042-S07-002,S07,WEEK4,Blood bilirubin increased,Blood bilirubin increased,Grade 3,Y,Drug permanently discontinued,2026-02-18,2026-02-18,3
+AE_042-S07-003_01,042-S07-003,S07,WEEK4,Severe nausea and vomiting,Severe nausea and vomiting,Grade 3,N,Drug permanently discontinued,2026-02-19,2026-02-19,3
+AE_042-S01-004_4,042-S01-004,S01,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-04,2026-03-04,4
+AE_042-S01-005_5,042-S01-005,S01,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-05,2026-03-05,5
+AE_042-S01-006_6,042-S01-006,S01,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-06,2026-04-06,6
+AE_042-S01-007_7,042-S01-007,S01,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-07,2026-04-07,7
+AE_042-S01-008_8,042-S01-008,S01,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-08,2026-05-08,8
+AE_042-S01-009_9,042-S01-009,S01,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-09,2026-05-09,9
+AE_042-S01-010_10,042-S01-010,S01,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-10,2026-06-10,10
+AE_042-S01-011_11,042-S01-011,S01,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-11,2026-06-11,11
+AE_042-S01-012_12,042-S01-012,S01,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-12,2026-07-12,12
+AE_042-S01-013_13,042-S01-013,S01,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-13,2026-01-13,1
+AE_042-S01-014_14,042-S01-014,S01,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-14,2026-02-14,2
+AE_042-S01-015_15,042-S01-015,S01,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-15,2026-02-15,3
+AE_042-S01-016_16,042-S01-016,S01,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-16,2026-03-16,4
+AE_042-S01-017_17,042-S01-017,S01,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-17,2026-03-17,5
+AE_042-S01-018_18,042-S01-018,S01,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-18,2026-04-18,6
+AE_042-S01-019_19,042-S01-019,S01,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-19,2026-04-19,7
+AE_042-S01-020_20,042-S01-020,S01,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-20,2026-05-20,8
+AE_042-S01-021_21,042-S01-021,S01,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-21,2026-05-21,9
+AE_042-S02-001_22,042-S02-001,S02,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-22,2026-06-22,10
+AE_042-S02-002_23,042-S02-002,S02,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-23,2026-06-23,11
+AE_042-S02-003_24,042-S02-003,S02,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-24,2026-07-24,12
+AE_042-S02-004_25,042-S02-004,S02,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-25,2026-01-25,1
+AE_042-S02-005_26,042-S02-005,S02,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-01,2026-02-01,2
+AE_042-S02-006_27,042-S02-006,S02,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-02,2026-02-02,3
+AE_042-S02-007_28,042-S02-007,S02,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-03,2026-03-03,4
+AE_042-S02-008_29,042-S02-008,S02,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-04,2026-03-04,5
+AE_042-S02-009_30,042-S02-009,S02,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-05,2026-04-05,6
+AE_042-S02-010_31,042-S02-010,S02,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-06,2026-04-06,7
+AE_042-S02-011_32,042-S02-011,S02,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-07,2026-05-07,8
+AE_042-S02-012_33,042-S02-012,S02,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-08,2026-05-08,9
+AE_042-S02-013_34,042-S02-013,S02,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-09,2026-06-09,10
+AE_042-S02-014_35,042-S02-014,S02,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-10,2026-06-10,11
+AE_042-S02-015_36,042-S02-015,S02,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-11,2026-07-11,12
+AE_042-S02-016_37,042-S02-016,S02,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-12,2026-01-12,1
+AE_042-S02-017_38,042-S02-017,S02,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-13,2026-02-13,2
+AE_042-S02-018_39,042-S02-018,S02,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-14,2026-02-14,3
+AE_042-S02-019_40,042-S02-019,S02,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-15,2026-03-15,4
+AE_042-S02-020_41,042-S02-020,S02,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-16,2026-03-16,5
+AE_042-S03-001_42,042-S03-001,S03,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-17,2026-04-17,6
+AE_042-S03-002_43,042-S03-002,S03,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-18,2026-04-18,7
+AE_042-S03-003_44,042-S03-003,S03,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-19,2026-05-19,8
+AE_042-S03-004_45,042-S03-004,S03,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-20,2026-05-20,9
+AE_042-S03-005_46,042-S03-005,S03,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-21,2026-06-21,10
+AE_042-S03-006_47,042-S03-006,S03,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-22,2026-06-22,11
+AE_042-S03-007_48,042-S03-007,S03,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-23,2026-07-23,12
+AE_042-S03-008_49,042-S03-008,S03,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-24,2026-01-24,1
+AE_042-S03-009_50,042-S03-009,S03,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-25,2026-02-25,2
+AE_042-S03-010_51,042-S03-010,S03,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-01,2026-02-01,3
+AE_042-S03-011_52,042-S03-011,S03,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-02,2026-03-02,4
+AE_042-S03-012_53,042-S03-012,S03,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-03,2026-03-03,5
+AE_042-S03-013_54,042-S03-013,S03,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-04,2026-04-04,6
+AE_042-S03-014_55,042-S03-014,S03,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-05,2026-04-05,7
+AE_042-S03-015_56,042-S03-015,S03,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-06,2026-05-06,8
+AE_042-S03-016_57,042-S03-016,S03,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-07,2026-05-07,9
+AE_042-S03-017_58,042-S03-017,S03,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-08,2026-06-08,10
+AE_042-S03-018_59,042-S03-018,S03,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-09,2026-06-09,11
+AE_042-S03-019_60,042-S03-019,S03,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-10,2026-07-10,12
+AE_042-S03-020_61,042-S03-020,S03,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-11,2026-01-11,1
+AE_042-S04-001_62,042-S04-001,S04,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-12,2026-02-12,6
+AE_042-S04-002_63,042-S04-002,S04,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-13,2026-02-13,6
+AE_042-S04-003_64,042-S04-003,S04,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-14,2026-03-14,6
+AE_042-S04-004_65,042-S04-004,S04,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-15,2026-03-15,6
+AE_042-S04-005_66,042-S04-005,S04,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-16,2026-04-16,6
+AE_042-S04-006_67,042-S04-006,S04,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-17,2026-04-17,7
+AE_042-S04-007_68,042-S04-007,S04,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-18,2026-05-18,8
+AE_042-S04-008_69,042-S04-008,S04,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-19,2026-05-19,9
+AE_042-S04-009_70,042-S04-009,S04,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-20,2026-06-20,10
+AE_042-S04-010_71,042-S04-010,S04,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-21,2026-06-21,11
+AE_042-S04-011_72,042-S04-011,S04,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-22,2026-07-22,12
+AE_042-S04-012_73,042-S04-012,S04,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-23,2026-01-23,6
+AE_042-S04-013_74,042-S04-013,S04,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-24,2026-02-24,6
+AE_042-S04-014_75,042-S04-014,S04,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-25,2026-02-25,6
+AE_042-S04-015_76,042-S04-015,S04,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-01,2026-03-01,6
+AE_042-S04-016_77,042-S04-016,S04,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-02,2026-03-02,6
+AE_042-S04-017_78,042-S04-017,S04,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-03,2026-04-03,6
+AE_042-S04-018_79,042-S04-018,S04,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-04,2026-04-04,7
+AE_042-S04-019_80,042-S04-019,S04,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-05,2026-05-05,8
+AE_042-S04-020_81,042-S04-020,S04,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-06,2026-05-06,9
+AE_042-S05-001_82,042-S05-001,S05,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-07,2026-06-07,10
+AE_042-S05-002_83,042-S05-002,S05,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-08,2026-06-08,11
+AE_042-S05-003_84,042-S05-003,S05,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-09,2026-07-09,12
+AE_042-S05-004_85,042-S05-004,S05,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-10,2026-01-10,1
+AE_042-S05-005_86,042-S05-005,S05,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-11,2026-02-11,2
+AE_042-S05-006_87,042-S05-006,S05,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-12,2026-02-12,3
+AE_042-S05-007_88,042-S05-007,S05,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-13,2026-03-13,4
+AE_042-S05-008_89,042-S05-008,S05,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-14,2026-03-14,5
+AE_042-S05-009_90,042-S05-009,S05,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-15,2026-04-15,6
+AE_042-S05-010_91,042-S05-010,S05,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-16,2026-04-16,7
+AE_042-S05-011_92,042-S05-011,S05,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-17,2026-05-17,8
+AE_042-S05-012_93,042-S05-012,S05,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-18,2026-05-18,9
+AE_042-S05-013_94,042-S05-013,S05,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-19,2026-06-19,10
+AE_042-S05-014_95,042-S05-014,S05,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-20,2026-06-20,11
+AE_042-S05-015_96,042-S05-015,S05,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-21,2026-07-21,12
+AE_042-S05-016_97,042-S05-016,S05,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-22,2026-01-22,1
+AE_042-S05-017_98,042-S05-017,S05,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-23,2026-02-23,2
+AE_042-S05-018_99,042-S05-018,S05,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-24,2026-02-24,3
+AE_042-S05-019_100,042-S05-019,S05,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-25,2026-03-25,4
+AE_042-S05-020_101,042-S05-020,S05,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-01,2026-03-01,5
+AE_042-S06-001_102,042-S06-001,S06,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-02,2026-04-02,6
+AE_042-S06-002_103,042-S06-002,S06,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-03,2026-04-03,7
+AE_042-S06-003_104,042-S06-003,S06,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-04,2026-05-04,8
+AE_042-S06-004_105,042-S06-004,S06,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-05,2026-05-05,9
+AE_042-S06-005_106,042-S06-005,S06,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-06,2026-06-06,10
+AE_042-S06-006_107,042-S06-006,S06,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-07,2026-06-07,11
+AE_042-S06-007_108,042-S06-007,S06,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-08,2026-07-08,12
+AE_042-S06-008_109,042-S06-008,S06,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-09,2026-01-09,1
+AE_042-S06-009_110,042-S06-009,S06,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-10,2026-02-10,2
+AE_042-S06-010_111,042-S06-010,S06,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-11,2026-02-11,3
+AE_042-S06-011_112,042-S06-011,S06,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-12,2026-03-12,4
+AE_042-S06-012_113,042-S06-012,S06,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-13,2026-03-13,5
+AE_042-S06-013_114,042-S06-013,S06,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-14,2026-04-14,6
+AE_042-S06-014_115,042-S06-014,S06,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-15,2026-04-15,7
+AE_042-S06-015_116,042-S06-015,S06,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-16,2026-05-16,8
+AE_042-S06-016_117,042-S06-016,S06,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-17,2026-05-17,9
+AE_042-S06-017_118,042-S06-017,S06,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-18,2026-06-18,10
+AE_042-S06-018_119,042-S06-018,S06,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-19,2026-06-19,11
+AE_042-S06-019_120,042-S06-019,S06,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-20,2026-07-20,12
+AE_042-S06-020_121,042-S06-020,S06,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-21,2026-01-21,1
+AE_042-S07-001_122,042-S07-001,S07,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-22,2026-02-22,2
+AE_042-S07-002_123,042-S07-002,S07,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-23,2026-02-23,3
+AE_042-S07-003_124,042-S07-003,S07,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-24,2026-03-24,4
+AE_042-S07-004_125,042-S07-004,S07,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-25,2026-03-25,5
+AE_042-S07-005_126,042-S07-005,S07,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-01,2026-04-01,6
+AE_042-S07-006_127,042-S07-006,S07,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-02,2026-04-02,7
+AE_042-S07-007_128,042-S07-007,S07,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-03,2026-05-03,8
+AE_042-S07-008_129,042-S07-008,S07,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-04,2026-05-04,9
+AE_042-S07-009_130,042-S07-009,S07,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-05,2026-06-05,10
+AE_042-S07-010_131,042-S07-010,S07,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-06,2026-06-06,11
+AE_042-S07-011_132,042-S07-011,S07,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-07,2026-07-07,12
+AE_042-S07-012_133,042-S07-012,S07,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-08,2026-01-08,1
+AE_042-S07-013_134,042-S07-013,S07,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-09,2026-02-09,2
+AE_042-S07-014_135,042-S07-014,S07,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-10,2026-02-10,3
+AE_042-S07-015_136,042-S07-015,S07,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-11,2026-03-11,4
+AE_042-S07-016_137,042-S07-016,S07,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-12,2026-03-12,5
+AE_042-S07-017_138,042-S07-017,S07,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-13,2026-04-13,6
+AE_042-S07-018_139,042-S07-018,S07,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-14,2026-04-14,7
+AE_042-S07-019_140,042-S07-019,S07,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-15,2026-05-15,8
+AE_042-S07-020_141,042-S07-020,S07,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-16,2026-05-16,9
+AE_042-S08-001_142,042-S08-001,S08,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-17,2026-06-17,10
+AE_042-S08-002_143,042-S08-002,S08,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-18,2026-06-18,11
+AE_042-S08-003_144,042-S08-003,S08,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-19,2026-07-19,12
+AE_042-S08-004_145,042-S08-004,S08,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-20,2026-01-20,1
+AE_042-S08-005_146,042-S08-005,S08,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-21,2026-02-21,2
+AE_042-S08-006_147,042-S08-006,S08,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-22,2026-02-22,3
+AE_042-S08-007_148,042-S08-007,S08,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-23,2026-03-23,4
+AE_042-S08-008_149,042-S08-008,S08,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-24,2026-03-24,5
+AE_042-S08-009_150,042-S08-009,S08,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-25,2026-04-25,6
+AE_042-S08-010_151,042-S08-010,S08,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-01,2026-04-01,7
+AE_042-S08-011_152,042-S08-011,S08,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-02,2026-05-02,8
+AE_042-S08-012_153,042-S08-012,S08,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-03,2026-05-03,9
+AE_042-S08-013_154,042-S08-013,S08,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-04,2026-06-04,10
+AE_042-S08-014_155,042-S08-014,S08,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-05,2026-06-05,11
+AE_042-S08-015_156,042-S08-015,S08,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-06,2026-07-06,12
+AE_042-S08-016_157,042-S08-016,S08,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-07,2026-01-07,1
+AE_042-S08-017_158,042-S08-017,S08,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-08,2026-02-08,2
+AE_042-S08-018_159,042-S08-018,S08,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-09,2026-02-09,3
+AE_042-S08-019_160,042-S08-019,S08,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-10,2026-03-10,4
+AE_042-S08-020_161,042-S08-020,S08,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-11,2026-03-11,5
+AE_042-S09-001_162,042-S09-001,S09,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-12,2026-04-12,9
+AE_042-S09-002_163,042-S09-002,S09,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-13,2026-04-13,9
+AE_042-S09-003_164,042-S09-003,S09,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-14,2026-05-14,9
+AE_042-S09-004_165,042-S09-004,S09,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-15,2026-05-15,9
+AE_042-S09-005_166,042-S09-005,S09,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-16,2026-06-16,10
+AE_042-S09-006_167,042-S09-006,S09,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-17,2026-06-17,11
+AE_042-S09-007_168,042-S09-007,S09,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-18,2026-07-18,12
+AE_042-S09-008_169,042-S09-008,S09,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-19,2026-01-19,9
+AE_042-S09-009_170,042-S09-009,S09,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-20,2026-02-20,9
+AE_042-S09-010_171,042-S09-010,S09,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-21,2026-02-21,9
+AE_042-S09-011_172,042-S09-011,S09,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-22,2026-03-22,9
+AE_042-S09-012_173,042-S09-012,S09,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-23,2026-03-23,9
+AE_042-S09-013_174,042-S09-013,S09,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-24,2026-04-24,9
+AE_042-S09-014_175,042-S09-014,S09,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-25,2026-04-25,9
+AE_042-S09-015_176,042-S09-015,S09,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-01,2026-05-01,9
+AE_042-S09-016_177,042-S09-016,S09,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-02,2026-05-02,9
+AE_042-S09-017_178,042-S09-017,S09,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-03,2026-06-03,10
+AE_042-S09-018_179,042-S09-018,S09,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-04,2026-06-04,11
+AE_042-S09-019_180,042-S09-019,S09,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-05,2026-07-05,12
+AE_042-S09-020_181,042-S09-020,S09,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-06,2026-01-06,9
+AE_042-S10-001_182,042-S10-001,S10,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-07,2026-02-07,2
+AE_042-S10-002_183,042-S10-002,S10,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-08,2026-02-08,3
+AE_042-S10-003_184,042-S10-003,S10,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-09,2026-03-09,4
+AE_042-S10-004_185,042-S10-004,S10,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-10,2026-03-10,5
+AE_042-S10-005_186,042-S10-005,S10,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-11,2026-04-11,6
+AE_042-S10-006_187,042-S10-006,S10,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-12,2026-04-12,7
+AE_042-S10-007_188,042-S10-007,S10,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-13,2026-05-13,8
+AE_042-S10-008_189,042-S10-008,S10,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-14,2026-05-14,9
+AE_042-S10-009_190,042-S10-009,S10,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-15,2026-06-15,10
+AE_042-S10-010_191,042-S10-010,S10,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-16,2026-06-16,11
+AE_042-S10-011_192,042-S10-011,S10,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-17,2026-07-17,12
+AE_042-S10-012_193,042-S10-012,S10,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-18,2026-01-18,1
+AE_042-S10-013_194,042-S10-013,S10,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-19,2026-02-19,2
+AE_042-S10-014_195,042-S10-014,S10,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-20,2026-02-20,3
+AE_042-S10-015_196,042-S10-015,S10,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-21,2026-03-21,4
+AE_042-S10-016_197,042-S10-016,S10,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-22,2026-03-22,5
+AE_042-S10-017_198,042-S10-017,S10,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-23,2026-04-23,6
+AE_042-S10-018_199,042-S10-018,S10,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-24,2026-04-24,7
+AE_042-S10-019_200,042-S10-019,S10,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-25,2026-05-25,8
+AE_042-S10-020_201,042-S10-020,S10,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-01,2026-05-01,9
+AE_042-S11-001_202,042-S11-001,S11,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-02,2026-06-02,10
+AE_042-S11-002_203,042-S11-002,S11,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-03,2026-06-03,11
+AE_042-S11-003_204,042-S11-003,S11,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-04,2026-07-04,12
+AE_042-S11-004_205,042-S11-004,S11,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-05,2026-01-05,1
+AE_042-S11-005_206,042-S11-005,S11,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-06,2026-02-06,2
+AE_042-S11-006_207,042-S11-006,S11,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-07,2026-02-07,3
+AE_042-S11-007_208,042-S11-007,S11,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-08,2026-03-08,4
+AE_042-S11-008_209,042-S11-008,S11,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-09,2026-03-09,5
+AE_042-S11-009_210,042-S11-009,S11,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-10,2026-04-10,6
+AE_042-S11-010_211,042-S11-010,S11,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-11,2026-04-11,7
+AE_042-S11-011_212,042-S11-011,S11,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-12,2026-05-12,8
+AE_042-S11-012_213,042-S11-012,S11,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-13,2026-05-13,9
+AE_042-S11-013_214,042-S11-013,S11,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-14,2026-06-14,10
+AE_042-S11-014_215,042-S11-014,S11,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-15,2026-06-15,11
+AE_042-S11-015_216,042-S11-015,S11,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-16,2026-07-16,12
+AE_042-S11-016_217,042-S11-016,S11,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-17,2026-01-17,1
+AE_042-S11-017_218,042-S11-017,S11,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-18,2026-02-18,2
+AE_042-S11-018_219,042-S11-018,S11,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-19,2026-02-19,3
+AE_042-S11-019_220,042-S11-019,S11,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-20,2026-03-20,4
+AE_042-S11-020_221,042-S11-020,S11,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-21,2026-03-21,5
+AE_042-S12-001_222,042-S12-001,S12,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-22,2026-04-22,6
+AE_042-S12-002_223,042-S12-002,S12,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-23,2026-04-23,7
+AE_042-S12-003_224,042-S12-003,S12,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-24,2026-05-24,8
+AE_042-S12-004_225,042-S12-004,S12,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-25,2026-05-25,9
+AE_042-S12-005_226,042-S12-005,S12,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-01,2026-06-01,10
+AE_042-S12-006_227,042-S12-006,S12,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-02,2026-06-02,11
+AE_042-S12-007_228,042-S12-007,S12,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-03,2026-07-03,12
+AE_042-S12-008_229,042-S12-008,S12,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-04,2026-01-04,1
+AE_042-S12-009_230,042-S12-009,S12,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-05,2026-02-05,2
+AE_042-S12-010_231,042-S12-010,S12,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-06,2026-02-06,3
+AE_042-S12-011_232,042-S12-011,S12,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-07,2026-03-07,4
+AE_042-S12-012_233,042-S12-012,S12,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-08,2026-03-08,5
+AE_042-S12-013_234,042-S12-013,S12,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-09,2026-04-09,6
+AE_042-S12-014_235,042-S12-014,S12,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-10,2026-04-10,7
+AE_042-S12-015_236,042-S12-015,S12,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-11,2026-05-11,8
+AE_042-S12-016_237,042-S12-016,S12,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-12,2026-05-12,9
+AE_042-S12-017_238,042-S12-017,S12,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-13,2026-06-13,10
+AE_042-S12-018_239,042-S12-018,S12,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-14,2026-06-14,11
+AE_042-S12-019_240,042-S12-019,S12,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-15,2026-07-15,12
+AE_042-S12-020_241,042-S12-020,S12,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-16,2026-01-16,1
+AE_042-S01-001_242,042-S01-001,S01,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-17,2026-02-17,2
+AE_042-S01-002_243,042-S01-002,S01,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-18,2026-02-18,3
+AE_042-S01-003_244,042-S01-003,S01,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-19,2026-03-19,4
+AE_042-S01-004_245,042-S01-004,S01,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-20,2026-03-20,5
+AE_042-S01-005_246,042-S01-005,S01,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-21,2026-04-21,6
+AE_042-S01-006_247,042-S01-006,S01,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-22,2026-04-22,7
+AE_042-S01-007_248,042-S01-007,S01,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-23,2026-05-23,8
+AE_042-S01-008_249,042-S01-008,S01,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-24,2026-05-24,9
+AE_042-S01-009_250,042-S01-009,S01,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-25,2026-06-25,10
+AE_042-S01-010_251,042-S01-010,S01,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-01,2026-06-01,11
+AE_042-S01-011_252,042-S01-011,S01,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-02,2026-07-02,12
+AE_042-S01-012_253,042-S01-012,S01,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-03,2026-01-03,1
+AE_042-S01-013_254,042-S01-013,S01,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-04,2026-02-04,2
+AE_042-S01-014_255,042-S01-014,S01,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-05,2026-02-05,3
+AE_042-S01-015_256,042-S01-015,S01,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-06,2026-03-06,4
+AE_042-S01-016_257,042-S01-016,S01,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-07,2026-03-07,5
+AE_042-S01-017_258,042-S01-017,S01,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-08,2026-04-08,6
+AE_042-S01-018_259,042-S01-018,S01,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-09,2026-04-09,7
+AE_042-S01-019_260,042-S01-019,S01,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-10,2026-05-10,8
+AE_042-S01-020_261,042-S01-020,S01,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-11,2026-05-11,9
+AE_042-S01-021_262,042-S01-021,S01,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-12,2026-06-12,10
+AE_042-S02-001_263,042-S02-001,S02,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-13,2026-06-13,11
+AE_042-S02-002_264,042-S02-002,S02,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-14,2026-07-14,12
+AE_042-S02-003_265,042-S02-003,S02,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-15,2026-01-15,1
+AE_042-S02-004_266,042-S02-004,S02,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-16,2026-02-16,2
+AE_042-S02-005_267,042-S02-005,S02,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-17,2026-02-17,3
+AE_042-S02-006_268,042-S02-006,S02,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-18,2026-03-18,4
+AE_042-S02-007_269,042-S02-007,S02,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-19,2026-03-19,5
+AE_042-S02-008_270,042-S02-008,S02,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-20,2026-04-20,6
+AE_042-S02-009_271,042-S02-009,S02,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-21,2026-04-21,7
+AE_042-S02-010_272,042-S02-010,S02,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-22,2026-05-22,8
+AE_042-S02-011_273,042-S02-011,S02,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-23,2026-05-23,9
+AE_042-S02-012_274,042-S02-012,S02,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-24,2026-06-24,10
+AE_042-S02-013_275,042-S02-013,S02,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-25,2026-06-25,11
+AE_042-S02-014_276,042-S02-014,S02,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-01,2026-07-01,12
+AE_042-S02-015_277,042-S02-015,S02,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-02,2026-01-02,1
+AE_042-S02-016_278,042-S02-016,S02,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-03,2026-02-03,2
+AE_042-S02-017_279,042-S02-017,S02,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-04,2026-02-04,3
+AE_042-S02-018_280,042-S02-018,S02,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-05,2026-03-05,4
+AE_042-S02-019_281,042-S02-019,S02,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-06,2026-03-06,5
+AE_042-S02-020_282,042-S02-020,S02,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-07,2026-04-07,6
+AE_042-S03-001_283,042-S03-001,S03,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-08,2026-04-08,7
+AE_042-S03-002_284,042-S03-002,S03,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-09,2026-05-09,8
+AE_042-S03-003_285,042-S03-003,S03,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-10,2026-05-10,9
+AE_042-S03-004_286,042-S03-004,S03,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-11,2026-06-11,10
+AE_042-S03-005_287,042-S03-005,S03,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-12,2026-06-12,11
+AE_042-S03-006_288,042-S03-006,S03,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-13,2026-07-13,12
+AE_042-S03-007_289,042-S03-007,S03,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-14,2026-01-14,1
+AE_042-S03-008_290,042-S03-008,S03,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-15,2026-02-15,2
+AE_042-S03-009_291,042-S03-009,S03,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-16,2026-02-16,3
+AE_042-S03-010_292,042-S03-010,S03,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-17,2026-03-17,4
+AE_042-S03-011_293,042-S03-011,S03,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-18,2026-03-18,5
+AE_042-S03-012_294,042-S03-012,S03,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-19,2026-04-19,6
+AE_042-S03-013_295,042-S03-013,S03,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-20,2026-04-20,7
+AE_042-S03-014_296,042-S03-014,S03,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-21,2026-05-21,8
+AE_042-S03-015_297,042-S03-015,S03,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-22,2026-05-22,9
+AE_042-S03-016_298,042-S03-016,S03,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-23,2026-06-23,10
+AE_042-S03-017_299,042-S03-017,S03,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-24,2026-06-24,11
+AE_042-S03-018_300,042-S03-018,S03,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-25,2026-07-25,12
+AE_042-S03-019_301,042-S03-019,S03,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-01,2026-01-01,1
+AE_042-S03-020_302,042-S03-020,S03,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-02,2026-02-02,2
+AE_042-S04-001_303,042-S04-001,S04,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-03,2026-02-03,6
+AE_042-S04-002_304,042-S04-002,S04,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-04,2026-03-04,6
+AE_042-S04-003_305,042-S04-003,S04,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-05,2026-03-05,6
+AE_042-S04-004_306,042-S04-004,S04,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-06,2026-04-06,6
+AE_042-S04-005_307,042-S04-005,S04,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-07,2026-04-07,7
+AE_042-S04-006_308,042-S04-006,S04,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-08,2026-05-08,8
+AE_042-S04-007_309,042-S04-007,S04,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-09,2026-05-09,9
+AE_042-S04-008_310,042-S04-008,S04,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-10,2026-06-10,10
+AE_042-S04-009_311,042-S04-009,S04,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-11,2026-06-11,11
+AE_042-S04-010_312,042-S04-010,S04,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-12,2026-07-12,12
+AE_042-S04-011_313,042-S04-011,S04,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-13,2026-01-13,6
+AE_042-S04-012_314,042-S04-012,S04,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-14,2026-02-14,6
+AE_042-S04-013_315,042-S04-013,S04,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-15,2026-02-15,6
+AE_042-S04-014_316,042-S04-014,S04,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-16,2026-03-16,6
+AE_042-S04-015_317,042-S04-015,S04,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-17,2026-03-17,6
+AE_042-S04-016_318,042-S04-016,S04,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-18,2026-04-18,6
+AE_042-S04-017_319,042-S04-017,S04,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-19,2026-04-19,7
+AE_042-S04-018_320,042-S04-018,S04,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-20,2026-05-20,8
+AE_042-S04-019_321,042-S04-019,S04,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-21,2026-05-21,9
+AE_042-S04-020_322,042-S04-020,S04,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-22,2026-06-22,10
+AE_042-S05-001_323,042-S05-001,S05,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-23,2026-06-23,11
+AE_042-S05-002_324,042-S05-002,S05,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-24,2026-07-24,12
+AE_042-S05-003_325,042-S05-003,S05,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-25,2026-01-25,1
+AE_042-S05-004_326,042-S05-004,S05,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-01,2026-02-01,2
+AE_042-S05-005_327,042-S05-005,S05,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-02,2026-02-02,3
+AE_042-S05-006_328,042-S05-006,S05,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-03,2026-03-03,4
+AE_042-S05-007_329,042-S05-007,S05,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-04,2026-03-04,5
+AE_042-S05-008_330,042-S05-008,S05,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-05,2026-04-05,6
+AE_042-S05-009_331,042-S05-009,S05,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-06,2026-04-06,7
+AE_042-S05-010_332,042-S05-010,S05,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-07,2026-05-07,8
+AE_042-S05-011_333,042-S05-011,S05,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-08,2026-05-08,9
+AE_042-S05-012_334,042-S05-012,S05,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-09,2026-06-09,10
+AE_042-S05-013_335,042-S05-013,S05,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-10,2026-06-10,11
+AE_042-S05-014_336,042-S05-014,S05,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-11,2026-07-11,12
+AE_042-S05-015_337,042-S05-015,S05,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-12,2026-01-12,1
+AE_042-S05-016_338,042-S05-016,S05,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-13,2026-02-13,2
+AE_042-S05-017_339,042-S05-017,S05,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-14,2026-02-14,3
+AE_042-S05-018_340,042-S05-018,S05,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-15,2026-03-15,4
+AE_042-S05-019_341,042-S05-019,S05,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-16,2026-03-16,5
+AE_042-S05-020_342,042-S05-020,S05,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-17,2026-04-17,6
+AE_042-S06-001_343,042-S06-001,S06,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-18,2026-04-18,7
+AE_042-S06-002_344,042-S06-002,S06,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-19,2026-05-19,8
+AE_042-S06-003_345,042-S06-003,S06,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-20,2026-05-20,9
+AE_042-S06-004_346,042-S06-004,S06,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-21,2026-06-21,10
+AE_042-S06-005_347,042-S06-005,S06,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-22,2026-06-22,11
+AE_042-S06-006_348,042-S06-006,S06,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-23,2026-07-23,12
+AE_042-S06-007_349,042-S06-007,S06,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-24,2026-01-24,1
+AE_042-S06-008_350,042-S06-008,S06,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-25,2026-02-25,2
+AE_042-S06-009_351,042-S06-009,S06,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-01,2026-02-01,3
+AE_042-S06-010_352,042-S06-010,S06,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-02,2026-03-02,4
+AE_042-S06-011_353,042-S06-011,S06,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-03,2026-03-03,5
+AE_042-S06-012_354,042-S06-012,S06,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-04,2026-04-04,6
+AE_042-S06-013_355,042-S06-013,S06,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-05,2026-04-05,7
+AE_042-S06-014_356,042-S06-014,S06,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-06,2026-05-06,8
+AE_042-S06-015_357,042-S06-015,S06,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-07,2026-05-07,9
+AE_042-S06-016_358,042-S06-016,S06,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-08,2026-06-08,10
+AE_042-S06-017_359,042-S06-017,S06,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-09,2026-06-09,11
+AE_042-S06-018_360,042-S06-018,S06,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-10,2026-07-10,12
+AE_042-S06-019_361,042-S06-019,S06,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-11,2026-01-11,1
+AE_042-S06-020_362,042-S06-020,S06,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-12,2026-02-12,2
+AE_042-S07-001_363,042-S07-001,S07,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-13,2026-02-13,3
+AE_042-S07-002_364,042-S07-002,S07,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-14,2026-03-14,4
+AE_042-S07-003_365,042-S07-003,S07,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-15,2026-03-15,5
+AE_042-S07-004_366,042-S07-004,S07,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-16,2026-04-16,6
+AE_042-S07-005_367,042-S07-005,S07,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-17,2026-04-17,7
+AE_042-S07-006_368,042-S07-006,S07,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-18,2026-05-18,8
+AE_042-S07-007_369,042-S07-007,S07,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-19,2026-05-19,9
+AE_042-S07-008_370,042-S07-008,S07,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-20,2026-06-20,10
+AE_042-S07-009_371,042-S07-009,S07,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-21,2026-06-21,11
+AE_042-S07-010_372,042-S07-010,S07,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-22,2026-07-22,12
+AE_042-S07-011_373,042-S07-011,S07,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-23,2026-01-23,1
+AE_042-S07-012_374,042-S07-012,S07,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-24,2026-02-24,2
+AE_042-S07-013_375,042-S07-013,S07,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-25,2026-02-25,3
+AE_042-S07-014_376,042-S07-014,S07,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-01,2026-03-01,4
+AE_042-S07-015_377,042-S07-015,S07,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-02,2026-03-02,5
+AE_042-S07-016_378,042-S07-016,S07,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-03,2026-04-03,6
+AE_042-S07-017_379,042-S07-017,S07,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-04,2026-04-04,7
+AE_042-S07-018_380,042-S07-018,S07,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-05,2026-05-05,8
+AE_042-S07-019_381,042-S07-019,S07,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-06,2026-05-06,9
+AE_042-S07-020_382,042-S07-020,S07,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-07,2026-06-07,10
+AE_042-S08-001_383,042-S08-001,S08,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-08,2026-06-08,11
+AE_042-S08-002_384,042-S08-002,S08,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-09,2026-07-09,12
+AE_042-S08-003_385,042-S08-003,S08,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-10,2026-01-10,1
+AE_042-S08-004_386,042-S08-004,S08,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-11,2026-02-11,2
+AE_042-S08-005_387,042-S08-005,S08,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-12,2026-02-12,3
+AE_042-S08-006_388,042-S08-006,S08,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-13,2026-03-13,4
+AE_042-S08-007_389,042-S08-007,S08,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-14,2026-03-14,5
+AE_042-S08-008_390,042-S08-008,S08,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-15,2026-04-15,6
+AE_042-S08-009_391,042-S08-009,S08,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-16,2026-04-16,7
+AE_042-S08-010_392,042-S08-010,S08,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-17,2026-05-17,8
+AE_042-S08-011_393,042-S08-011,S08,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-18,2026-05-18,9
+AE_042-S08-012_394,042-S08-012,S08,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-19,2026-06-19,10
+AE_042-S08-013_395,042-S08-013,S08,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-20,2026-06-20,11
+AE_042-S08-014_396,042-S08-014,S08,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-21,2026-07-21,12
+AE_042-S08-015_397,042-S08-015,S08,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-22,2026-01-22,1
+AE_042-S08-016_398,042-S08-016,S08,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-23,2026-02-23,2
+AE_042-S08-017_399,042-S08-017,S08,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-24,2026-02-24,3
+AE_042-S08-018_400,042-S08-018,S08,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-25,2026-03-25,4
+AE_042-S08-019_401,042-S08-019,S08,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-01,2026-03-01,5
+AE_042-S08-020_402,042-S08-020,S08,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-02,2026-04-02,6
+AE_042-S09-001_403,042-S09-001,S09,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-03,2026-04-03,9
+AE_042-S09-002_404,042-S09-002,S09,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-04,2026-05-04,9
+AE_042-S09-003_405,042-S09-003,S09,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-05,2026-05-05,9
+AE_042-S09-004_406,042-S09-004,S09,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-06,2026-06-06,10
+AE_042-S09-005_407,042-S09-005,S09,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-07,2026-06-07,11
+AE_042-S09-006_408,042-S09-006,S09,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-08,2026-07-08,12
+AE_042-S09-007_409,042-S09-007,S09,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-09,2026-01-09,9
+AE_042-S09-008_410,042-S09-008,S09,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-10,2026-02-10,9
+AE_042-S09-009_411,042-S09-009,S09,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-11,2026-02-11,9
+AE_042-S09-010_412,042-S09-010,S09,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-12,2026-03-12,9
+AE_042-S09-011_413,042-S09-011,S09,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-13,2026-03-13,9
+AE_042-S09-012_414,042-S09-012,S09,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-14,2026-04-14,9
+AE_042-S09-013_415,042-S09-013,S09,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-15,2026-04-15,9
+AE_042-S09-014_416,042-S09-014,S09,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-16,2026-05-16,9
+AE_042-S09-015_417,042-S09-015,S09,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-17,2026-05-17,9
+AE_042-S09-016_418,042-S09-016,S09,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-18,2026-06-18,10
+AE_042-S09-017_419,042-S09-017,S09,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-19,2026-06-19,11
+AE_042-S09-018_420,042-S09-018,S09,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-20,2026-07-20,12
+AE_042-S09-019_421,042-S09-019,S09,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-21,2026-01-21,9
+AE_042-S09-020_422,042-S09-020,S09,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-22,2026-02-22,9
+AE_042-S10-001_423,042-S10-001,S10,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-23,2026-02-23,3
+AE_042-S10-002_424,042-S10-002,S10,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-24,2026-03-24,4
+AE_042-S10-003_425,042-S10-003,S10,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-25,2026-03-25,5
+AE_042-S10-004_426,042-S10-004,S10,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-01,2026-04-01,6
+AE_042-S10-005_427,042-S10-005,S10,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-02,2026-04-02,7
+AE_042-S10-006_428,042-S10-006,S10,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-03,2026-05-03,8
+AE_042-S10-007_429,042-S10-007,S10,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-04,2026-05-04,9
+AE_042-S10-008_430,042-S10-008,S10,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-05,2026-06-05,10
+AE_042-S10-009_431,042-S10-009,S10,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-06,2026-06-06,11
+AE_042-S10-010_432,042-S10-010,S10,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-07,2026-07-07,12
+AE_042-S10-011_433,042-S10-011,S10,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-08,2026-01-08,1
+AE_042-S10-012_434,042-S10-012,S10,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-09,2026-02-09,2
+AE_042-S10-013_435,042-S10-013,S10,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-10,2026-02-10,3
+AE_042-S10-014_436,042-S10-014,S10,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-11,2026-03-11,4
+AE_042-S10-015_437,042-S10-015,S10,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-12,2026-03-12,5
+AE_042-S10-016_438,042-S10-016,S10,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-13,2026-04-13,6
+AE_042-S10-017_439,042-S10-017,S10,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-14,2026-04-14,7
+AE_042-S10-018_440,042-S10-018,S10,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-15,2026-05-15,8
+AE_042-S10-019_441,042-S10-019,S10,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-16,2026-05-16,9
+AE_042-S10-020_442,042-S10-020,S10,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-17,2026-06-17,10
+AE_042-S11-001_443,042-S11-001,S11,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-18,2026-06-18,11
+AE_042-S11-002_444,042-S11-002,S11,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-19,2026-07-19,12
+AE_042-S11-003_445,042-S11-003,S11,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-20,2026-01-20,1
+AE_042-S11-004_446,042-S11-004,S11,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-21,2026-02-21,2
+AE_042-S11-005_447,042-S11-005,S11,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-22,2026-02-22,3
+AE_042-S11-006_448,042-S11-006,S11,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-23,2026-03-23,4
+AE_042-S11-007_449,042-S11-007,S11,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-24,2026-03-24,5
+AE_042-S11-008_450,042-S11-008,S11,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-25,2026-04-25,6
+AE_042-S11-009_451,042-S11-009,S11,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-01,2026-04-01,7
+AE_042-S11-010_452,042-S11-010,S11,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-02,2026-05-02,8
+AE_042-S11-011_453,042-S11-011,S11,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-03,2026-05-03,9
+AE_042-S11-012_454,042-S11-012,S11,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-04,2026-06-04,10
+AE_042-S11-013_455,042-S11-013,S11,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-05,2026-06-05,11
+AE_042-S11-014_456,042-S11-014,S11,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-06,2026-07-06,12
+AE_042-S11-015_457,042-S11-015,S11,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-07,2026-01-07,1
+AE_042-S11-016_458,042-S11-016,S11,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-08,2026-02-08,2
+AE_042-S11-017_459,042-S11-017,S11,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-09,2026-02-09,3
+AE_042-S11-018_460,042-S11-018,S11,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-10,2026-03-10,4
+AE_042-S11-019_461,042-S11-019,S11,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-11,2026-03-11,5
+AE_042-S11-020_462,042-S11-020,S11,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-12,2026-04-12,6
+AE_042-S12-001_463,042-S12-001,S12,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-13,2026-04-13,7
+AE_042-S12-002_464,042-S12-002,S12,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-14,2026-05-14,8
+AE_042-S12-003_465,042-S12-003,S12,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-15,2026-05-15,9
+AE_042-S12-004_466,042-S12-004,S12,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-16,2026-06-16,10
+AE_042-S12-005_467,042-S12-005,S12,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-17,2026-06-17,11
+AE_042-S12-006_468,042-S12-006,S12,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-18,2026-07-18,12
+AE_042-S12-007_469,042-S12-007,S12,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-19,2026-01-19,1
+AE_042-S12-008_470,042-S12-008,S12,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-20,2026-02-20,2
+AE_042-S12-009_471,042-S12-009,S12,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-21,2026-02-21,3
+AE_042-S12-010_472,042-S12-010,S12,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-22,2026-03-22,4
+AE_042-S12-011_473,042-S12-011,S12,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-23,2026-03-23,5
+AE_042-S12-012_474,042-S12-012,S12,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-24,2026-04-24,6
+AE_042-S12-013_475,042-S12-013,S12,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-25,2026-04-25,7
+AE_042-S12-014_476,042-S12-014,S12,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-01,2026-05-01,8
+AE_042-S12-015_477,042-S12-015,S12,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-02,2026-05-02,9
+AE_042-S12-016_478,042-S12-016,S12,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-03,2026-06-03,10
+AE_042-S12-017_479,042-S12-017,S12,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-04,2026-06-04,11
+AE_042-S12-018_480,042-S12-018,S12,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-05,2026-07-05,12
+AE_042-S12-019_481,042-S12-019,S12,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-06,2026-01-06,1
+AE_042-S12-020_482,042-S12-020,S12,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-07,2026-02-07,2
+AE_042-S01-001_483,042-S01-001,S01,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-08,2026-02-08,3
+AE_042-S01-002_484,042-S01-002,S01,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-09,2026-03-09,4
+AE_042-S01-003_485,042-S01-003,S01,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-10,2026-03-10,5
+AE_042-S01-004_486,042-S01-004,S01,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-11,2026-04-11,6
+AE_042-S01-005_487,042-S01-005,S01,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-12,2026-04-12,7
+AE_042-S01-006_488,042-S01-006,S01,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-13,2026-05-13,8
+AE_042-S01-007_489,042-S01-007,S01,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-14,2026-05-14,9
+AE_042-S01-008_490,042-S01-008,S01,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-15,2026-06-15,10
+AE_042-S01-009_491,042-S01-009,S01,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-16,2026-06-16,11
+AE_042-S01-010_492,042-S01-010,S01,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-17,2026-07-17,12
+AE_042-S01-011_493,042-S01-011,S01,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-18,2026-01-18,1
+AE_042-S01-012_494,042-S01-012,S01,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-19,2026-02-19,2
+AE_042-S01-013_495,042-S01-013,S01,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-20,2026-02-20,3
+AE_042-S01-014_496,042-S01-014,S01,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-21,2026-03-21,4
+AE_042-S01-015_497,042-S01-015,S01,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-22,2026-03-22,5
+AE_042-S01-016_498,042-S01-016,S01,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-23,2026-04-23,6
+AE_042-S01-017_499,042-S01-017,S01,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-24,2026-04-24,7
+AE_042-S01-018_500,042-S01-018,S01,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-25,2026-05-25,8
+AE_042-S01-019_501,042-S01-019,S01,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-01,2026-05-01,9
+AE_042-S01-020_502,042-S01-020,S01,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-02,2026-06-02,10
+AE_042-S01-021_503,042-S01-021,S01,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-03,2026-06-03,11
+AE_042-S02-001_504,042-S02-001,S02,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-04,2026-07-04,12
+AE_042-S02-002_505,042-S02-002,S02,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-05,2026-01-05,1
+AE_042-S02-003_506,042-S02-003,S02,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-06,2026-02-06,2
+AE_042-S02-004_507,042-S02-004,S02,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-07,2026-02-07,3
+AE_042-S02-005_508,042-S02-005,S02,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-08,2026-03-08,4
+AE_042-S02-006_509,042-S02-006,S02,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-09,2026-03-09,5
+AE_042-S02-007_510,042-S02-007,S02,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-10,2026-04-10,6
+AE_042-S02-008_511,042-S02-008,S02,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-11,2026-04-11,7
+AE_042-S02-009_512,042-S02-009,S02,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-12,2026-05-12,8
+AE_042-S02-010_513,042-S02-010,S02,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-13,2026-05-13,9
+AE_042-S02-011_514,042-S02-011,S02,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-14,2026-06-14,10
+AE_042-S02-012_515,042-S02-012,S02,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-15,2026-06-15,11
+AE_042-S02-013_516,042-S02-013,S02,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-16,2026-07-16,12
+AE_042-S02-014_517,042-S02-014,S02,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-17,2026-01-17,1
+AE_042-S02-015_518,042-S02-015,S02,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-18,2026-02-18,2
+AE_042-S02-016_519,042-S02-016,S02,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-19,2026-02-19,3
+AE_042-S02-017_520,042-S02-017,S02,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-20,2026-03-20,4
+AE_042-S02-018_521,042-S02-018,S02,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-21,2026-03-21,5
+AE_042-S02-019_522,042-S02-019,S02,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-22,2026-04-22,6
+AE_042-S02-020_523,042-S02-020,S02,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-23,2026-04-23,7
+AE_042-S03-001_524,042-S03-001,S03,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-24,2026-05-24,8
+AE_042-S03-002_525,042-S03-002,S03,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-25,2026-05-25,9
+AE_042-S03-003_526,042-S03-003,S03,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-01,2026-06-01,10
+AE_042-S03-004_527,042-S03-004,S03,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-02,2026-06-02,11
+AE_042-S03-005_528,042-S03-005,S03,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-03,2026-07-03,12
+AE_042-S03-006_529,042-S03-006,S03,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-04,2026-01-04,1
+AE_042-S03-007_530,042-S03-007,S03,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-05,2026-02-05,2
+AE_042-S03-008_531,042-S03-008,S03,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-06,2026-02-06,3
+AE_042-S03-009_532,042-S03-009,S03,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-07,2026-03-07,4
+AE_042-S03-010_533,042-S03-010,S03,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-08,2026-03-08,5
+AE_042-S03-011_534,042-S03-011,S03,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-09,2026-04-09,6
+AE_042-S03-012_535,042-S03-012,S03,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-10,2026-04-10,7
+AE_042-S03-013_536,042-S03-013,S03,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-11,2026-05-11,8
+AE_042-S03-014_537,042-S03-014,S03,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-12,2026-05-12,9
+AE_042-S03-015_538,042-S03-015,S03,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-13,2026-06-13,10
+AE_042-S03-016_539,042-S03-016,S03,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-14,2026-06-14,11
+AE_042-S03-017_540,042-S03-017,S03,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-15,2026-07-15,12
+AE_042-S03-018_541,042-S03-018,S03,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-16,2026-01-16,1
+AE_042-S03-019_542,042-S03-019,S03,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-17,2026-02-17,2
+AE_042-S03-020_543,042-S03-020,S03,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-18,2026-02-18,3
+AE_042-S04-001_544,042-S04-001,S04,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-19,2026-03-19,6
+AE_042-S04-002_545,042-S04-002,S04,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-20,2026-03-20,6
+AE_042-S04-003_546,042-S04-003,S04,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-21,2026-04-21,6
+AE_042-S04-004_547,042-S04-004,S04,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-22,2026-04-22,7
+AE_042-S04-005_548,042-S04-005,S04,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-23,2026-05-23,8
+AE_042-S04-006_549,042-S04-006,S04,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-24,2026-05-24,9
+AE_042-S04-007_550,042-S04-007,S04,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-25,2026-06-25,10
+AE_042-S04-008_551,042-S04-008,S04,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-01,2026-06-01,11
+AE_042-S04-009_552,042-S04-009,S04,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-02,2026-07-02,12
+AE_042-S04-010_553,042-S04-010,S04,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-03,2026-01-03,6
+AE_042-S04-011_554,042-S04-011,S04,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-04,2026-02-04,6
+AE_042-S04-012_555,042-S04-012,S04,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-05,2026-02-05,6
+AE_042-S04-013_556,042-S04-013,S04,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-06,2026-03-06,6
+AE_042-S04-014_557,042-S04-014,S04,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-07,2026-03-07,6
+AE_042-S04-015_558,042-S04-015,S04,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-08,2026-04-08,6
+AE_042-S04-016_559,042-S04-016,S04,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-09,2026-04-09,7
+AE_042-S04-017_560,042-S04-017,S04,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-10,2026-05-10,8
+AE_042-S04-018_561,042-S04-018,S04,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-11,2026-05-11,9
+AE_042-S04-019_562,042-S04-019,S04,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-12,2026-06-12,10
+AE_042-S04-020_563,042-S04-020,S04,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-13,2026-06-13,11
+AE_042-S05-001_564,042-S05-001,S05,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-14,2026-07-14,12
+AE_042-S05-002_565,042-S05-002,S05,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-15,2026-01-15,1
+AE_042-S05-003_566,042-S05-003,S05,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-16,2026-02-16,2
+AE_042-S05-004_567,042-S05-004,S05,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-17,2026-02-17,3
+AE_042-S05-005_568,042-S05-005,S05,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-18,2026-03-18,4
+AE_042-S05-006_569,042-S05-006,S05,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-19,2026-03-19,5
+AE_042-S05-007_570,042-S05-007,S05,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-20,2026-04-20,6
+AE_042-S05-008_571,042-S05-008,S05,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-21,2026-04-21,7
+AE_042-S05-009_572,042-S05-009,S05,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-22,2026-05-22,8
+AE_042-S05-010_573,042-S05-010,S05,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-23,2026-05-23,9
+AE_042-S05-011_574,042-S05-011,S05,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-24,2026-06-24,10
+AE_042-S05-012_575,042-S05-012,S05,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-25,2026-06-25,11
+AE_042-S05-013_576,042-S05-013,S05,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-01,2026-07-01,12
+AE_042-S05-014_577,042-S05-014,S05,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-02,2026-01-02,1
+AE_042-S05-015_578,042-S05-015,S05,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-03,2026-02-03,2
+AE_042-S05-016_579,042-S05-016,S05,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-04,2026-02-04,3
+AE_042-S05-017_580,042-S05-017,S05,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-05,2026-03-05,4
+AE_042-S05-018_581,042-S05-018,S05,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-06,2026-03-06,5
+AE_042-S05-019_582,042-S05-019,S05,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-07,2026-04-07,6
+AE_042-S05-020_583,042-S05-020,S05,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-08,2026-04-08,7
+AE_042-S06-001_584,042-S06-001,S06,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-09,2026-05-09,8
+AE_042-S06-002_585,042-S06-002,S06,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-10,2026-05-10,9
+AE_042-S06-003_586,042-S06-003,S06,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-11,2026-06-11,10
+AE_042-S06-004_587,042-S06-004,S06,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-12,2026-06-12,11
+AE_042-S06-005_588,042-S06-005,S06,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-13,2026-07-13,12
+AE_042-S06-006_589,042-S06-006,S06,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-14,2026-01-14,1
+AE_042-S06-007_590,042-S06-007,S06,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-15,2026-02-15,2
+AE_042-S06-008_591,042-S06-008,S06,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-16,2026-02-16,3
+AE_042-S06-009_592,042-S06-009,S06,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-17,2026-03-17,4
+AE_042-S06-010_593,042-S06-010,S06,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-18,2026-03-18,5
+AE_042-S06-011_594,042-S06-011,S06,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-19,2026-04-19,6
+AE_042-S06-012_595,042-S06-012,S06,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-20,2026-04-20,7
+AE_042-S06-013_596,042-S06-013,S06,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-21,2026-05-21,8
+AE_042-S06-014_597,042-S06-014,S06,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-22,2026-05-22,9
+AE_042-S06-015_598,042-S06-015,S06,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-23,2026-06-23,10
+AE_042-S06-016_599,042-S06-016,S06,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-24,2026-06-24,11
+AE_042-S06-017_600,042-S06-017,S06,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-25,2026-07-25,12
+AE_042-S06-018_601,042-S06-018,S06,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-01,2026-01-01,1
+AE_042-S06-019_602,042-S06-019,S06,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-02,2026-02-02,2
+AE_042-S06-020_603,042-S06-020,S06,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-03,2026-02-03,3
+AE_042-S07-001_604,042-S07-001,S07,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-04,2026-03-04,4
+AE_042-S07-002_605,042-S07-002,S07,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-05,2026-03-05,5
+AE_042-S07-003_606,042-S07-003,S07,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-06,2026-04-06,6
+AE_042-S07-004_607,042-S07-004,S07,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-07,2026-04-07,7
+AE_042-S07-005_608,042-S07-005,S07,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-08,2026-05-08,8
+AE_042-S07-006_609,042-S07-006,S07,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-09,2026-05-09,9
+AE_042-S07-007_610,042-S07-007,S07,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-10,2026-06-10,10
+AE_042-S07-008_611,042-S07-008,S07,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-11,2026-06-11,11
+AE_042-S07-009_612,042-S07-009,S07,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-12,2026-07-12,12
+AE_042-S07-010_613,042-S07-010,S07,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-13,2026-01-13,1
+AE_042-S07-011_614,042-S07-011,S07,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-14,2026-02-14,2
+AE_042-S07-012_615,042-S07-012,S07,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-15,2026-02-15,3
+AE_042-S07-013_616,042-S07-013,S07,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-16,2026-03-16,4
+AE_042-S07-014_617,042-S07-014,S07,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-17,2026-03-17,5
+AE_042-S07-015_618,042-S07-015,S07,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-18,2026-04-18,6
+AE_042-S07-016_619,042-S07-016,S07,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-19,2026-04-19,7
+AE_042-S07-017_620,042-S07-017,S07,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-20,2026-05-20,8
+AE_042-S07-018_621,042-S07-018,S07,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-21,2026-05-21,9
+AE_042-S07-019_622,042-S07-019,S07,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-22,2026-06-22,10
+AE_042-S07-020_623,042-S07-020,S07,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-23,2026-06-23,11
+AE_042-S08-001_624,042-S08-001,S08,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-24,2026-07-24,12
+AE_042-S08-002_625,042-S08-002,S08,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-25,2026-01-25,1
+AE_042-S08-003_626,042-S08-003,S08,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-01,2026-02-01,2
+AE_042-S08-004_627,042-S08-004,S08,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-02,2026-02-02,3
+AE_042-S08-005_628,042-S08-005,S08,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-03,2026-03-03,4
+AE_042-S08-006_629,042-S08-006,S08,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-04,2026-03-04,5
+AE_042-S08-007_630,042-S08-007,S08,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-05,2026-04-05,6
+AE_042-S08-008_631,042-S08-008,S08,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-06,2026-04-06,7
+AE_042-S08-009_632,042-S08-009,S08,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-07,2026-05-07,8
+AE_042-S08-010_633,042-S08-010,S08,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-08,2026-05-08,9
+AE_042-S08-011_634,042-S08-011,S08,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-09,2026-06-09,10
+AE_042-S08-012_635,042-S08-012,S08,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-10,2026-06-10,11
+AE_042-S08-013_636,042-S08-013,S08,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-11,2026-07-11,12
+AE_042-S08-014_637,042-S08-014,S08,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-12,2026-01-12,1
+AE_042-S08-015_638,042-S08-015,S08,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-13,2026-02-13,2
+AE_042-S08-016_639,042-S08-016,S08,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-14,2026-02-14,3
+AE_042-S08-017_640,042-S08-017,S08,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-15,2026-03-15,4
+AE_042-S08-018_641,042-S08-018,S08,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-16,2026-03-16,5
+AE_042-S08-019_642,042-S08-019,S08,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-17,2026-04-17,6
+AE_042-S08-020_643,042-S08-020,S08,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-18,2026-04-18,7
+AE_042-S09-001_644,042-S09-001,S09,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-19,2026-05-19,9
+AE_042-S09-002_645,042-S09-002,S09,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-20,2026-05-20,9
+AE_042-S09-003_646,042-S09-003,S09,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-21,2026-06-21,10
+AE_042-S09-004_647,042-S09-004,S09,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-22,2026-06-22,11
+AE_042-S09-005_648,042-S09-005,S09,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-23,2026-07-23,12
+AE_042-S09-006_649,042-S09-006,S09,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-24,2026-01-24,9
+AE_042-S09-007_650,042-S09-007,S09,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-25,2026-02-25,9
+AE_042-S09-008_651,042-S09-008,S09,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-01,2026-02-01,9
+AE_042-S09-009_652,042-S09-009,S09,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-02,2026-03-02,9
+AE_042-S09-010_653,042-S09-010,S09,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-03,2026-03-03,9
+AE_042-S09-011_654,042-S09-011,S09,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-04,2026-04-04,9
+AE_042-S09-012_655,042-S09-012,S09,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-05,2026-04-05,9
+AE_042-S09-013_656,042-S09-013,S09,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-06,2026-05-06,9
+AE_042-S09-014_657,042-S09-014,S09,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-07,2026-05-07,9
+AE_042-S09-015_658,042-S09-015,S09,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-08,2026-06-08,10
+AE_042-S09-016_659,042-S09-016,S09,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-09,2026-06-09,11
+AE_042-S09-017_660,042-S09-017,S09,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-10,2026-07-10,12
+AE_042-S09-018_661,042-S09-018,S09,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-11,2026-01-11,9
+AE_042-S09-019_662,042-S09-019,S09,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-12,2026-02-12,9
+AE_042-S09-020_663,042-S09-020,S09,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-13,2026-02-13,9
+AE_042-S10-001_664,042-S10-001,S10,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-14,2026-03-14,4
+AE_042-S10-002_665,042-S10-002,S10,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-15,2026-03-15,5
+AE_042-S10-003_666,042-S10-003,S10,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-16,2026-04-16,6
+AE_042-S10-004_667,042-S10-004,S10,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-17,2026-04-17,7
+AE_042-S10-005_668,042-S10-005,S10,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-18,2026-05-18,8
+AE_042-S10-006_669,042-S10-006,S10,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-19,2026-05-19,9
+AE_042-S10-007_670,042-S10-007,S10,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-20,2026-06-20,10
+AE_042-S10-008_671,042-S10-008,S10,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-21,2026-06-21,11
+AE_042-S10-009_672,042-S10-009,S10,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-22,2026-07-22,12
+AE_042-S10-010_673,042-S10-010,S10,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-23,2026-01-23,1
+AE_042-S10-011_674,042-S10-011,S10,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-24,2026-02-24,2
+AE_042-S10-012_675,042-S10-012,S10,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-25,2026-02-25,3
+AE_042-S10-013_676,042-S10-013,S10,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-01,2026-03-01,4
+AE_042-S10-014_677,042-S10-014,S10,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-02,2026-03-02,5
+AE_042-S10-015_678,042-S10-015,S10,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-03,2026-04-03,6
+AE_042-S10-016_679,042-S10-016,S10,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-04,2026-04-04,7
+AE_042-S10-017_680,042-S10-017,S10,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-05,2026-05-05,8
+AE_042-S10-018_681,042-S10-018,S10,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-06,2026-05-06,9
+AE_042-S10-019_682,042-S10-019,S10,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-07,2026-06-07,10
+AE_042-S10-020_683,042-S10-020,S10,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-08,2026-06-08,11
+AE_042-S11-001_684,042-S11-001,S11,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-09,2026-07-09,12
+AE_042-S11-002_685,042-S11-002,S11,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-10,2026-01-10,1
+AE_042-S11-003_686,042-S11-003,S11,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-11,2026-02-11,2
+AE_042-S11-004_687,042-S11-004,S11,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-12,2026-02-12,3
+AE_042-S11-005_688,042-S11-005,S11,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-13,2026-03-13,4
+AE_042-S11-006_689,042-S11-006,S11,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-14,2026-03-14,5
+AE_042-S11-007_690,042-S11-007,S11,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-15,2026-04-15,6
+AE_042-S11-008_691,042-S11-008,S11,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-16,2026-04-16,7
+AE_042-S11-009_692,042-S11-009,S11,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-17,2026-05-17,8
+AE_042-S11-010_693,042-S11-010,S11,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-18,2026-05-18,9
+AE_042-S11-011_694,042-S11-011,S11,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-19,2026-06-19,10
+AE_042-S11-012_695,042-S11-012,S11,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-20,2026-06-20,11
+AE_042-S11-013_696,042-S11-013,S11,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-21,2026-07-21,12
+AE_042-S11-014_697,042-S11-014,S11,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-22,2026-01-22,1
+AE_042-S11-015_698,042-S11-015,S11,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-23,2026-02-23,2
+AE_042-S11-016_699,042-S11-016,S11,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-24,2026-02-24,3
+AE_042-S11-017_700,042-S11-017,S11,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-25,2026-03-25,4
+AE_042-S11-018_701,042-S11-018,S11,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-01,2026-03-01,5
+AE_042-S11-019_702,042-S11-019,S11,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-02,2026-04-02,6
+AE_042-S11-020_703,042-S11-020,S11,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-03,2026-04-03,7
+AE_042-S12-001_704,042-S12-001,S12,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-04,2026-05-04,8
+AE_042-S12-002_705,042-S12-002,S12,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-05,2026-05-05,9
+AE_042-S12-003_706,042-S12-003,S12,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-06,2026-06-06,10
+AE_042-S12-004_707,042-S12-004,S12,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-07,2026-06-07,11
+AE_042-S12-005_708,042-S12-005,S12,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-08,2026-07-08,12
+AE_042-S12-006_709,042-S12-006,S12,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-09,2026-01-09,1
+AE_042-S12-007_710,042-S12-007,S12,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-10,2026-02-10,2
+AE_042-S12-008_711,042-S12-008,S12,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-11,2026-02-11,3
+AE_042-S12-009_712,042-S12-009,S12,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-12,2026-03-12,4
+AE_042-S12-010_713,042-S12-010,S12,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-13,2026-03-13,5
+AE_042-S12-011_714,042-S12-011,S12,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-14,2026-04-14,6
+AE_042-S12-012_715,042-S12-012,S12,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-15,2026-04-15,7
+AE_042-S12-013_716,042-S12-013,S12,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-16,2026-05-16,8
+AE_042-S12-014_717,042-S12-014,S12,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-17,2026-05-17,9
+AE_042-S12-015_718,042-S12-015,S12,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-18,2026-06-18,10
+AE_042-S12-016_719,042-S12-016,S12,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-19,2026-06-19,11
+AE_042-S12-017_720,042-S12-017,S12,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-20,2026-07-20,12
+AE_042-S12-018_721,042-S12-018,S12,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-21,2026-01-21,1
+AE_042-S12-019_722,042-S12-019,S12,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-22,2026-02-22,2
+AE_042-S12-020_723,042-S12-020,S12,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-23,2026-02-23,3
+AE_042-S01-001_724,042-S01-001,S01,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-24,2026-03-24,4
+AE_042-S01-002_725,042-S01-002,S01,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-25,2026-03-25,5
+AE_042-S01-003_726,042-S01-003,S01,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-01,2026-04-01,6
+AE_042-S01-004_727,042-S01-004,S01,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-02,2026-04-02,7
+AE_042-S01-005_728,042-S01-005,S01,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-03,2026-05-03,8
+AE_042-S01-006_729,042-S01-006,S01,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-04,2026-05-04,9
+AE_042-S01-007_730,042-S01-007,S01,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-05,2026-06-05,10
+AE_042-S01-008_731,042-S01-008,S01,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-06,2026-06-06,11
+AE_042-S01-009_732,042-S01-009,S01,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-07,2026-07-07,12
+AE_042-S01-010_733,042-S01-010,S01,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-08,2026-01-08,1
+AE_042-S01-011_734,042-S01-011,S01,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-09,2026-02-09,2
+AE_042-S01-012_735,042-S01-012,S01,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-10,2026-02-10,3
+AE_042-S01-013_736,042-S01-013,S01,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-11,2026-03-11,4
+AE_042-S01-014_737,042-S01-014,S01,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-12,2026-03-12,5
+AE_042-S01-015_738,042-S01-015,S01,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-13,2026-04-13,6
+AE_042-S01-016_739,042-S01-016,S01,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-14,2026-04-14,7
+AE_042-S01-017_740,042-S01-017,S01,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-15,2026-05-15,8
+AE_042-S01-018_741,042-S01-018,S01,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-16,2026-05-16,9
+AE_042-S01-019_742,042-S01-019,S01,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-17,2026-06-17,10
+AE_042-S01-020_743,042-S01-020,S01,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-18,2026-06-18,11
+AE_042-S01-021_744,042-S01-021,S01,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-19,2026-07-19,12
+AE_042-S02-001_745,042-S02-001,S02,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-20,2026-01-20,1
+AE_042-S02-002_746,042-S02-002,S02,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-21,2026-02-21,2
+AE_042-S02-003_747,042-S02-003,S02,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-22,2026-02-22,3
+AE_042-S02-004_748,042-S02-004,S02,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-23,2026-03-23,4
+AE_042-S02-005_749,042-S02-005,S02,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-24,2026-03-24,5
+AE_042-S02-006_750,042-S02-006,S02,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-25,2026-04-25,6
+AE_042-S02-007_751,042-S02-007,S02,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-01,2026-04-01,7
+AE_042-S02-008_752,042-S02-008,S02,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-02,2026-05-02,8
+AE_042-S02-009_753,042-S02-009,S02,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-03,2026-05-03,9
+AE_042-S02-010_754,042-S02-010,S02,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-04,2026-06-04,10
+AE_042-S02-011_755,042-S02-011,S02,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-05,2026-06-05,11
+AE_042-S02-012_756,042-S02-012,S02,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-06,2026-07-06,12
+AE_042-S02-013_757,042-S02-013,S02,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-07,2026-01-07,1
+AE_042-S02-014_758,042-S02-014,S02,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-08,2026-02-08,2
+AE_042-S02-015_759,042-S02-015,S02,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-09,2026-02-09,3
+AE_042-S02-016_760,042-S02-016,S02,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-10,2026-03-10,4
+AE_042-S02-017_761,042-S02-017,S02,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-11,2026-03-11,5
+AE_042-S02-018_762,042-S02-018,S02,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-12,2026-04-12,6
+AE_042-S02-019_763,042-S02-019,S02,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-13,2026-04-13,7
+AE_042-S02-020_764,042-S02-020,S02,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-14,2026-05-14,8
+AE_042-S03-001_765,042-S03-001,S03,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-15,2026-05-15,9
+AE_042-S03-002_766,042-S03-002,S03,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-16,2026-06-16,10
+AE_042-S03-003_767,042-S03-003,S03,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-17,2026-06-17,11
+AE_042-S03-004_768,042-S03-004,S03,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-18,2026-07-18,12
+AE_042-S03-005_769,042-S03-005,S03,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-19,2026-01-19,1
+AE_042-S03-006_770,042-S03-006,S03,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-20,2026-02-20,2
+AE_042-S03-007_771,042-S03-007,S03,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-21,2026-02-21,3
+AE_042-S03-008_772,042-S03-008,S03,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-22,2026-03-22,4
+AE_042-S03-009_773,042-S03-009,S03,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-23,2026-03-23,5
+AE_042-S03-010_774,042-S03-010,S03,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-24,2026-04-24,6
+AE_042-S03-011_775,042-S03-011,S03,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-25,2026-04-25,7
+AE_042-S03-012_776,042-S03-012,S03,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-01,2026-05-01,8
+AE_042-S03-013_777,042-S03-013,S03,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-02,2026-05-02,9
+AE_042-S03-014_778,042-S03-014,S03,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-03,2026-06-03,10
+AE_042-S03-015_779,042-S03-015,S03,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-04,2026-06-04,11
+AE_042-S03-016_780,042-S03-016,S03,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-05,2026-07-05,12
+AE_042-S03-017_781,042-S03-017,S03,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-06,2026-01-06,1
+AE_042-S03-018_782,042-S03-018,S03,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-07,2026-02-07,2
+AE_042-S03-019_783,042-S03-019,S03,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-08,2026-02-08,3
+AE_042-S03-020_784,042-S03-020,S03,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-09,2026-03-09,4
+AE_042-S04-001_785,042-S04-001,S04,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-10,2026-03-10,6
+AE_042-S04-002_786,042-S04-002,S04,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-11,2026-04-11,6
+AE_042-S04-003_787,042-S04-003,S04,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-12,2026-04-12,7
+AE_042-S04-004_788,042-S04-004,S04,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-13,2026-05-13,8
+AE_042-S04-005_789,042-S04-005,S04,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-14,2026-05-14,9
+AE_042-S04-006_790,042-S04-006,S04,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-15,2026-06-15,10
+AE_042-S04-007_791,042-S04-007,S04,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-16,2026-06-16,11
+AE_042-S04-008_792,042-S04-008,S04,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-17,2026-07-17,12
+AE_042-S04-009_793,042-S04-009,S04,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-18,2026-01-18,6
+AE_042-S04-010_794,042-S04-010,S04,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-19,2026-02-19,6
+AE_042-S04-011_795,042-S04-011,S04,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-20,2026-02-20,6
+AE_042-S04-012_796,042-S04-012,S04,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-21,2026-03-21,6
+AE_042-S04-013_797,042-S04-013,S04,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-22,2026-03-22,6
+AE_042-S04-014_798,042-S04-014,S04,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-23,2026-04-23,6
+AE_042-S04-015_799,042-S04-015,S04,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-24,2026-04-24,7
+AE_042-S04-016_800,042-S04-016,S04,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-25,2026-05-25,8
+AE_042-S04-017_801,042-S04-017,S04,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-01,2026-05-01,9
+AE_042-S04-018_802,042-S04-018,S04,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-02,2026-06-02,10
+AE_042-S04-019_803,042-S04-019,S04,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-03,2026-06-03,11
+AE_042-S04-020_804,042-S04-020,S04,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-04,2026-07-04,12
+AE_042-S05-001_805,042-S05-001,S05,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-05,2026-01-05,1
+AE_042-S05-002_806,042-S05-002,S05,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-06,2026-02-06,2
+AE_042-S05-003_807,042-S05-003,S05,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-07,2026-02-07,3
+AE_042-S05-004_808,042-S05-004,S05,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-08,2026-03-08,4
+AE_042-S05-005_809,042-S05-005,S05,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-09,2026-03-09,5
+AE_042-S05-006_810,042-S05-006,S05,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-10,2026-04-10,6
+AE_042-S05-007_811,042-S05-007,S05,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-11,2026-04-11,7
+AE_042-S05-008_812,042-S05-008,S05,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-12,2026-05-12,8
+AE_042-S05-009_813,042-S05-009,S05,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-13,2026-05-13,9
+AE_042-S05-010_814,042-S05-010,S05,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-14,2026-06-14,10
+AE_042-S05-011_815,042-S05-011,S05,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-15,2026-06-15,11
+AE_042-S05-012_816,042-S05-012,S05,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-16,2026-07-16,12
+AE_042-S05-013_817,042-S05-013,S05,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-17,2026-01-17,1
+AE_042-S05-014_818,042-S05-014,S05,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-18,2026-02-18,2
+AE_042-S05-015_819,042-S05-015,S05,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-19,2026-02-19,3
+AE_042-S05-016_820,042-S05-016,S05,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-20,2026-03-20,4
+AE_042-S05-017_821,042-S05-017,S05,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-21,2026-03-21,5
+AE_042-S05-018_822,042-S05-018,S05,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-22,2026-04-22,6
+AE_042-S05-019_823,042-S05-019,S05,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-23,2026-04-23,7
+AE_042-S05-020_824,042-S05-020,S05,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-24,2026-05-24,8
+AE_042-S06-001_825,042-S06-001,S06,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-25,2026-05-25,9
+AE_042-S06-002_826,042-S06-002,S06,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-01,2026-06-01,10
+AE_042-S06-003_827,042-S06-003,S06,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-02,2026-06-02,11
+AE_042-S06-004_828,042-S06-004,S06,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-03,2026-07-03,12
+AE_042-S06-005_829,042-S06-005,S06,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-04,2026-01-04,1
+AE_042-S06-006_830,042-S06-006,S06,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-05,2026-02-05,2
+AE_042-S06-007_831,042-S06-007,S06,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-06,2026-02-06,3
+AE_042-S06-008_832,042-S06-008,S06,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-07,2026-03-07,4
+AE_042-S06-009_833,042-S06-009,S06,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-08,2026-03-08,5
+AE_042-S06-010_834,042-S06-010,S06,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-09,2026-04-09,6
+AE_042-S06-011_835,042-S06-011,S06,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-10,2026-04-10,7
+AE_042-S06-012_836,042-S06-012,S06,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-11,2026-05-11,8
+AE_042-S06-013_837,042-S06-013,S06,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-12,2026-05-12,9
+AE_042-S06-014_838,042-S06-014,S06,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-13,2026-06-13,10
+AE_042-S06-015_839,042-S06-015,S06,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-14,2026-06-14,11
+AE_042-S06-016_840,042-S06-016,S06,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-15,2026-07-15,12
+AE_042-S06-017_841,042-S06-017,S06,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-16,2026-01-16,1
+AE_042-S06-018_842,042-S06-018,S06,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-17,2026-02-17,2
+AE_042-S06-019_843,042-S06-019,S06,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-18,2026-02-18,3
+AE_042-S06-020_844,042-S06-020,S06,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-19,2026-03-19,4
+AE_042-S07-001_845,042-S07-001,S07,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-20,2026-03-20,5
+AE_042-S07-002_846,042-S07-002,S07,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-21,2026-04-21,6
+AE_042-S07-003_847,042-S07-003,S07,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-22,2026-04-22,7
+AE_042-S07-004_848,042-S07-004,S07,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-23,2026-05-23,8
+AE_042-S07-005_849,042-S07-005,S07,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-24,2026-05-24,9
+AE_042-S07-006_850,042-S07-006,S07,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-25,2026-06-25,10
+AE_042-S07-007_851,042-S07-007,S07,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-01,2026-06-01,11
+AE_042-S07-008_852,042-S07-008,S07,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-02,2026-07-02,12
+AE_042-S07-009_853,042-S07-009,S07,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-03,2026-01-03,1
+AE_042-S07-010_854,042-S07-010,S07,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-04,2026-02-04,2
+AE_042-S07-011_855,042-S07-011,S07,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-05,2026-02-05,3
+AE_042-S07-012_856,042-S07-012,S07,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-06,2026-03-06,4
+AE_042-S07-013_857,042-S07-013,S07,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-07,2026-03-07,5
+AE_042-S07-014_858,042-S07-014,S07,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-08,2026-04-08,6
+AE_042-S07-015_859,042-S07-015,S07,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-09,2026-04-09,7
+AE_042-S07-016_860,042-S07-016,S07,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-10,2026-05-10,8
+AE_042-S07-017_861,042-S07-017,S07,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-11,2026-05-11,9
+AE_042-S07-018_862,042-S07-018,S07,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-12,2026-06-12,10
+AE_042-S07-019_863,042-S07-019,S07,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-13,2026-06-13,11
+AE_042-S07-020_864,042-S07-020,S07,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-14,2026-07-14,12
+AE_042-S08-001_865,042-S08-001,S08,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-15,2026-01-15,1
+AE_042-S08-002_866,042-S08-002,S08,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-16,2026-02-16,2
+AE_042-S08-003_867,042-S08-003,S08,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-17,2026-02-17,3
+AE_042-S08-004_868,042-S08-004,S08,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-18,2026-03-18,4
+AE_042-S08-005_869,042-S08-005,S08,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-19,2026-03-19,5
+AE_042-S08-006_870,042-S08-006,S08,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-20,2026-04-20,6
+AE_042-S08-007_871,042-S08-007,S08,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-21,2026-04-21,7
+AE_042-S08-008_872,042-S08-008,S08,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-22,2026-05-22,8
+AE_042-S08-009_873,042-S08-009,S08,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-23,2026-05-23,9
+AE_042-S08-010_874,042-S08-010,S08,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-24,2026-06-24,10
+AE_042-S08-011_875,042-S08-011,S08,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-25,2026-06-25,11
+AE_042-S08-012_876,042-S08-012,S08,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-01,2026-07-01,12
+AE_042-S08-013_877,042-S08-013,S08,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-02,2026-01-02,1
+AE_042-S08-014_878,042-S08-014,S08,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-03,2026-02-03,2
+AE_042-S08-015_879,042-S08-015,S08,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-04,2026-02-04,3
+AE_042-S08-016_880,042-S08-016,S08,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-05,2026-03-05,4
+AE_042-S08-017_881,042-S08-017,S08,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-06,2026-03-06,5
+AE_042-S08-018_882,042-S08-018,S08,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-07,2026-04-07,6
+AE_042-S08-019_883,042-S08-019,S08,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-08,2026-04-08,7
+AE_042-S08-020_884,042-S08-020,S08,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-09,2026-05-09,8
+AE_042-S09-001_885,042-S09-001,S09,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-10,2026-05-10,9
+AE_042-S09-002_886,042-S09-002,S09,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-11,2026-06-11,10
+AE_042-S09-003_887,042-S09-003,S09,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-12,2026-06-12,11
+AE_042-S09-004_888,042-S09-004,S09,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-13,2026-07-13,12
+AE_042-S09-005_889,042-S09-005,S09,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-14,2026-01-14,9
+AE_042-S09-006_890,042-S09-006,S09,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-15,2026-02-15,9
+AE_042-S09-007_891,042-S09-007,S09,WEEK6,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-02-16,2026-02-16,9
+AE_042-S09-008_892,042-S09-008,S09,WEEK8,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-03-17,2026-03-17,9
+AE_042-S09-009_893,042-S09-009,S09,WEEK10,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-03-18,2026-03-18,9
+AE_042-S09-010_894,042-S09-010,S09,WEEK12,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-04-19,2026-04-19,9
+AE_042-S09-011_895,042-S09-011,S09,WEEK2,Back pain,Back pain,Grade 1,N,Dose not changed,2026-04-20,2026-04-20,9
+AE_042-S09-012_896,042-S09-012,S09,WEEK4,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-05-21,2026-05-21,9
+AE_042-S09-013_897,042-S09-013,S09,WEEK6,Headache,Headache,Grade 2,N,Dose not changed,2026-05-22,2026-05-22,9
+AE_042-S09-014_898,042-S09-014,S09,WEEK8,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-06-23,2026-06-23,10
+AE_042-S09-015_899,042-S09-015,S09,WEEK10,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-06-24,2026-06-24,11
+AE_042-S09-016_900,042-S09-016,S09,WEEK12,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-07-25,2026-07-25,12
+AE_042-S09-017_901,042-S09-017,S09,WEEK2,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-01-01,2026-01-01,9
+AE_042-S09-018_902,042-S09-018,S09,WEEK4,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-02-02,2026-02-02,9
+AE_042-S09-019_903,042-S09-019,S09,WEEK6,Back pain,Back pain,Grade 1,N,Dose not changed,2026-02-03,2026-02-03,9
+AE_042-S09-020_904,042-S09-020,S09,WEEK8,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-03-04,2026-03-04,9
+AE_042-S10-001_905,042-S10-001,S10,WEEK10,Headache,Headache,Grade 2,N,Dose not changed,2026-03-05,2026-03-05,5
+AE_042-S10-002_906,042-S10-002,S10,WEEK12,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-04-06,2026-04-06,6
+AE_042-S10-003_907,042-S10-003,S10,WEEK2,Nasopharyngitis,Nasopharyngitis,Grade 1,N,Dose not changed,2026-04-07,2026-04-07,7
+AE_042-S10-004_908,042-S10-004,S10,WEEK4,Hypoglycemia,Hypoglycemia,Grade 1,N,Dose not changed,2026-05-08,2026-05-08,8
+AE_042-S10-005_909,042-S10-005,S10,WEEK6,Fatigue,Fatigue,Grade 2,N,Dose not changed,2026-05-09,2026-05-09,9
+AE_042-S10-006_910,042-S10-006,S10,WEEK8,Dyspepsia,Dyspepsia,Grade 1,N,Dose not changed,2026-06-10,2026-06-10,10
+AE_042-S10-007_911,042-S10-007,S10,WEEK10,Back pain,Back pain,Grade 1,N,Dose not changed,2026-06-11,2026-06-11,11
+AE_042-S10-008_912,042-S10-008,S10,WEEK12,Dizziness,Dizziness,Grade 1,N,Dose not changed,2026-07-12,2026-07-12,12
+AE_042-S10-009_913,042-S10-009,S10,WEEK2,Headache,Headache,Grade 2,N,Dose not changed,2026-01-13,2026-01-13,1
+AE_042-S10-010_914,042-S10-010,S10,WEEK4,Diarrhea,Diarrhea,Grade 1,N,Dose not changed,2026-02-14,2026-02-14,2

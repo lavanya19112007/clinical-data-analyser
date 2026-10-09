@@ -1,0 +1,6 @@
+{
+  "name": "ATLAS → MONITOR → WATCH | Clinical Data Review System",
+  "description": "Deterministic clinical-trial data review, knowledge graph reasoning, monitor workflow, and 12-cut longitudinal surveillance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

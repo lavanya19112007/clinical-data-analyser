@@ -1,0 +1,14 @@
+[
+  {
+    "site_id": "S01",
+    "query_id": "QRY-S01-01",
+    "status": "CLOSED",
+    "reply": "Subject 042-S01-001 dosing confirmed at planned 100 mg. No deviation."
+  },
+  {
+    "site_id": "S05",
+    "query_id": "QRY-S05-04",
+    "status": "RESOLVED",
+    "reply": "Re-draw confirmed ALT elevation at Week 4. Subject placed on safety follow-up."
+  }
+]

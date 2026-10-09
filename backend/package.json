@@ -1,0 +1,21 @@
+{
+  "name": "trialcore-intelligence-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx server.ts",
+    "start": "tsx server.ts",
+    "lint": "tsc --noEmit",
+    "test": "python3 -m unittest discover -s tests -p 'test_*.py'"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.14.0",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2",
+    "tsx": "^4.21.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0"
+  }
+}

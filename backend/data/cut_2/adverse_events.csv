@@ -1,0 +1,2 @@
+record_id,subject_id,site,visit,event_term,severity,is_serious,action_taken,date
+AE_S01_001_01,042-S01-001,S01,BASELINE,Mild Tension Headache,Grade 1,N,None,2026-01-12

@@ -1,0 +1,2 @@
+cut,record_id,field,old_value,corrected_value,reason
+5,LAB_042-S05-003_WEEK4_ALT,value,160.0,38.0,Central laboratory instrument calibration error re-assayed. Correct ALT is 38 U/L.

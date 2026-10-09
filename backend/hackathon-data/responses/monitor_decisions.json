@@ -1,0 +1,20 @@
+[
+  {
+    "decision_id": "DEC-001",
+    "cut": 3,
+    "subject_id": "042-S05-003",
+    "type": "SAFETY_ALERT",
+    "status": "ESCALATED",
+    "adjudication": "CONFIRMED_HYS_LAW",
+    "reviewer": "Dr. E. Vance, Medical Monitor"
+  },
+  {
+    "decision_id": "DEC-002",
+    "cut": 5,
+    "subject_id": "042-S05-003",
+    "type": "LAB_CORRECTION",
+    "status": "APPROVED",
+    "adjudication": "RETRACTED_TRANSCRIBED_ALT",
+    "reviewer": "Data Management Gate"
+  }
+]

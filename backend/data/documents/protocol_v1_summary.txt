@@ -1,0 +1,4 @@
+PROTOCOL ATLAS-101: A Multicenter Phase 2 Study of Candesartan-X in Hepatocellular Carcinoma.
+Inclusion: Adult patients ECOG 0-1, adequate organ function.
+Safety Stopping Criteria: Concurrent ALT > 3x ULN and Total Bilirubin > 2x ULN (Hy's Law).
+Visit Windows: +/- 3 calendar days.

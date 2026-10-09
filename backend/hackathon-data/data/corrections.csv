@@ -1,0 +1,3 @@
+correction_id,cut,corrected_at_cut,record_id,field,old_value,new_value,reason,authorized_by
+COR-001,5,5,LB_042-S05-003_WEEK4_ALT,value,160.0,38.0,Central laboratory re-assay identified sample transcription error,Central Lab Director
+COR-002,7,7,LB_042-S02-001_WEEK6_ALT,unit,ukat/L,U/L,Site electronic data capture unit format resolved,Lead Data Manager
